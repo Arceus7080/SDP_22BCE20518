@@ -71,8 +71,8 @@ def find_leakage(train_dir, test_dir, hash_cutoff=5):
 # ==========================================
 # CONFIGURATION
 # ==========================================
-TRAIN_DIR = r'C:\Users\Dbaiv\Desktop\SDP_Plant_Diseases\Apple_disease\train'  # <--- UPDATE THIS
-TEST_DIR = r'C:\Users\Dbaiv\Desktop\SDP_Plant_Diseases\Apple_disease\valid'    # <--- UPDATE THIS
+TRAIN_DIR = r'C:\Users\Dbaiv\Desktop\SDP_Plant\Potato_disease\train'  # <--- UPDATE THIS
+TEST_DIR = r'C:\Users\Dbaiv\Desktop\SDP_Plant\Potato_disease\valid'    # <--- UPDATE THIS
 
 # Cutoff 0 = Exact match. 
 # Cutoff < 5 = Very similar (likely just resized or compressed)
