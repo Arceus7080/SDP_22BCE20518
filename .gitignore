@@ -189,9 +189,12 @@ Apple_disease/train/
 Apple_disease/valid/
 
 # Ignore full other datasets
-Potato_disease/
+Potato_disease/train/
+Potato_disease/valid/
 Wheat_dataset/
-New Plant Diseases Dataset/
+New Plant Diseases Dataset/train/
+New Plant Diseases Dataset/valid/
+New Plant Diseases Dataset/test/
 
 # ===============================
 # MODEL FILES
