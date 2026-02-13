@@ -193,6 +193,8 @@ Potato_disease/train/
 Potato_disease/valid/
 Cherry_disease/train/
 Cherry_disease/valid/
+Corn_disease/train/
+Corn_disease/valid/
 New Plant Diseases Dataset/train/
 New Plant Diseases Dataset/valid/
 New Plant Diseases Dataset/test/
