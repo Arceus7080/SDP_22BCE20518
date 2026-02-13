@@ -191,7 +191,8 @@ Apple_disease/valid/
 # Ignore full other datasets
 Potato_disease/train/
 Potato_disease/valid/
-Wheat_dataset/
+Cherry_disease/train/
+Cherry_disease/valid/
 New Plant Diseases Dataset/train/
 New Plant Diseases Dataset/valid/
 New Plant Diseases Dataset/test/
