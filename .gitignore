@@ -202,8 +202,6 @@ New Plant Diseases Dataset/test/
 # ===============================
 # MODEL FILES
 # ===============================
-*.h5
-*.keras
 *.ckpt
 *.pb
 
@@ -213,6 +211,8 @@ New Plant Diseases Dataset/test/
 __pycache__/
 *.pyc
 *.pyo
+*.keras
+*.h5
 *.pyd
 
 # ===============================
