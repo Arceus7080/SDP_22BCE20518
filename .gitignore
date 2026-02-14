@@ -203,6 +203,8 @@ New Plant Diseases Dataset/valid/
 New Plant Diseases Dataset/test/
 Apple_disease/train/
 Apple_disease/valid/
+Strawberry_disease/train/
+Strawberry_disease/valid/
 
 # ===============================
 # MODEL FILES
