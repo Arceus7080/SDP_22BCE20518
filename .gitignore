@@ -195,6 +195,9 @@ Cherry_disease/train/
 Cherry_disease/valid/
 Corn_disease/train/
 Corn_disease/valid/
+Grape_disease/train/
+Grape_disease/valid/
+plantseg/
 New Plant Diseases Dataset/train/
 New Plant Diseases Dataset/valid/
 New Plant Diseases Dataset/test/

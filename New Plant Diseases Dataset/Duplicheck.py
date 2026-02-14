@@ -60,7 +60,7 @@ def check_train_val_leakage(train_path, val_path):
 
 
 # 🔽 CHANGE PATHS
-train_path = r"C:\Users\Dbaiv\Desktop\SDP_Plant\Cherry_disease\train"
-val_path   = r"C:\Users\Dbaiv\Desktop\SDP_Plant\Cherry_disease\valid"
+train_path = r"C:\Users\Dbaiv\Desktop\SDP_Plant\Grape_disease\train"
+val_path   = r"C:\Users\Dbaiv\Desktop\SDP_Plant\Grape_disease\valid"
 
 check_train_val_leakage(train_path, val_path)
