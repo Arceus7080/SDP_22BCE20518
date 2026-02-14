@@ -205,6 +205,14 @@ Apple_disease/train/
 Apple_disease/valid/
 Strawberry_disease/train/
 Strawberry_disease/valid/
+Pepper_disease/train/
+Pepper_disease/valid/
+peach_disease/train/
+peach_disease/valid/
+Rice_disease/train/
+Rice_disease/valid/
+Pepper_Peach_Strawberry_Cherry_disease/train/
+Pepper_Peach_Strawberry_Cherry_disease/valid/
 
 # ===============================
 # MODEL FILES
