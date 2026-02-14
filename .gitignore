@@ -184,9 +184,7 @@ cython_debug/
 # DATASETS (Ignore image folders)
 # ===============================
 
-# Apple dataset (ignore only images folders)
-Apple_disease/train/
-Apple_disease/valid/
+
 
 # Ignore full other datasets
 Potato_disease/train/
@@ -198,9 +196,13 @@ Corn_disease/valid/
 Grape_disease/train/
 Grape_disease/valid/
 plantseg/
+Tomato_disease/train/
+Tomato_disease/valid/
 New Plant Diseases Dataset/train/
 New Plant Diseases Dataset/valid/
 New Plant Diseases Dataset/test/
+Apple_disease/train/
+Apple_disease/valid/
 
 # ===============================
 # MODEL FILES
