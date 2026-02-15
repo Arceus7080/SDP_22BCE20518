@@ -213,6 +213,8 @@ Rice_disease/train/
 Rice_disease/valid/
 Pepper_Peach_Strawberry_Cherry_disease/train/
 Pepper_Peach_Strawberry_Cherry_disease/valid/
+Rice_disease/valid/
+Rice_disease/train/
 
 # ===============================
 # MODEL FILES

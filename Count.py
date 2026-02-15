@@ -1,6 +1,6 @@
 import os
 
-root = r"C:\Users\Dbaiv\Desktop\SDP_Plant\Pepper_Peach_Strawberry_Cherry_disease\train"
+root = r"C:\Users\Dbaiv\Desktop\SDP_Plant\Rice_disease\valid"
 total_count = 0
 
 for subfolder in os.listdir(root):
